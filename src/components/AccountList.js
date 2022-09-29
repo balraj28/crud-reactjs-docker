@@ -77,7 +77,6 @@ export default function AccountList() {
                                                     onDelete(data.id)
                                                 }
                                             }}>Delete</Button>
-                                            {/* <Button onClick={() => onDelete(data.id)}>Delete</Button> */}
                                         </div>
                                     </Table.Cell>
                                 </Table.Row>

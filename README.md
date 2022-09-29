@@ -16,8 +16,8 @@ Docker version 18.09.7, build 2d0083d
 ### Installing
 
 ```
-git clone https://github.com/balraj28/crud-reactjs.git
-cd crud-reactjs
+git clone https://github.com/balraj28/crud-reactjs-docker.git
+cd crud-reactjs-docker
 
 ```
 
